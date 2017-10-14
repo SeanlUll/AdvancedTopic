@@ -10,3 +10,7 @@ video tutorial http://coding.imooc.com/learn/list/62.html
 * 2_5 "map" function; "reduce" function;
 * 2_6 ordered dictionaries
 * 2_7 deque
+### chapter 3 Object Iterator
+* 3_2 iterator; iterable;
+* 3_4 reversed iterator;
+* 3_6 iteratools chain;
