@@ -26,6 +26,7 @@ for c, m, e in zip(chinese, math, english):
     total.append(c + m + e)
 print(total)
 
+#chain of itertools
 e1 = [randint(60, 100) for _ in range(42)]
 e2 = [randint(60, 100) for _ in range(44)]
 e3 = [randint(60, 100) for _ in range(45)]
