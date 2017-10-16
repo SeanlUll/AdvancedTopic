@@ -23,3 +23,8 @@ video tutorial http://coding.imooc.com/learn/list/62.html
 * 4_6 "string.strip" function; "re.sub" function; "string.replae" function;
 ### chapter 5 IO
 * 5_1 binary file; "struct.unpack" function;
+### chapter 6 Document
+* 6_1 CSV
+* 6_2 JSON
+* 6_3 XML
+* 6_4 EXCEL
