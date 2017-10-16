@@ -35,3 +35,8 @@ video tutorial http://coding.imooc.com/learn/list/62.html
 * 7_5 operator; total_ordering; 
 * 7_6 Attribute data type 
 * 7_7 weak ref
+### chapter 9 Decorator
+* 9_1 function decorator 
+* 9_2 Decorator Parameter
+* 9_3 attribute modify
+* 9_4 class decorator
