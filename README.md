@@ -21,3 +21,5 @@ video tutorial http://coding.imooc.com/learn/list/62.html
 * 4_4 "string.join" function; string "+" operator
 * 4_5 "string.just" function; format;
 * 4_6 "string.strip" function; "re.sub" function; "string.replae" function;
+### chapter 5 IO
+* 5_1 binary file; "struct.unpack" function;
