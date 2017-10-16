@@ -22,5 +22,6 @@ def typeassert(*ty_args, **ty_kargs):
 def f(a, b, c):
     print(a, b, c)
 
+
 f(1, 'abc', [1, 2, 3])
 f(1, 23, [1, 2]) #error

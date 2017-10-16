@@ -34,6 +34,7 @@ def fibonacci3(n):
         return 1
     return fibonacci3(n - 1) + fibonacci3(n - 2)
 
+
 start = time.time()
 print(fibonacci(40)) #57 second
 print("fibonacci time ", time.time() - start)
