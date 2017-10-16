@@ -14,3 +14,10 @@ video tutorial http://coding.imooc.com/learn/list/62.html
 * 3_2 iterator; iterable;
 * 3_4 reversed iterator;
 * 3_6 iteratools chain;
+### chapter 4 String
+* 4_1 re; "re.split" function;
+* 4_2 os; stat; "string.endswith" function;
+* 4_3 "re.sub" function
+* 4_4 "string.join" function; string "+" operator
+* 4_5 "string.just" function; format;
+* 4_6 "string.strip" function; "re.sub" function; "string.replae" function;
