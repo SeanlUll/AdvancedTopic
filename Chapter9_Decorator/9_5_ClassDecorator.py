@@ -31,7 +31,7 @@ class CallingInfo(object):
             info['used'] = used
             info['ncalls'] = wrapper.ncalls
             msg = self.formatter % info
-            self.log.info(msg)
+            self.log.info(msg) 
             return res
         wrapper.ncalls = 0
         return wrapper
