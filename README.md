@@ -28,3 +28,10 @@ video tutorial http://coding.imooc.com/learn/list/62.html
 * 6_2 JSON
 * 6_3 XML
 * 6_4 EXCEL
+### chapter 7 Object and Class
+* 7_1 super and derive
+* 7_2 __slots__;
+* 7_4 class "Property" function;
+* 7_5 operator; total_ordering; 
+* 7_6 Attribute data type 
+* 7_7 weak ref
