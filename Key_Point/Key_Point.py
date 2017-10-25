@@ -104,3 +104,27 @@ builtin class
 print("*" * 80)
 info(__build_class__, 20)
 
+'''
+getattr()
+'''
+print("*" * 80)
+li = ["larry", "curly"]
+li.pop()
+print(li)
+getattr(li, "append")("meo")
+print(li)
+getattr(li, "pop")()
+print(li)
+
+'''
+lambda()
+'''
+print("*" * 80)
+print((lambda x: x * 2)(3))
+
+'''
+sys modules
+'''
+print("*" * 80)
+import sys
+print("\n".join(sys.modules.keys()))
